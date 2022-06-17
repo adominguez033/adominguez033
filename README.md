@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alex Domínguez. I'm an International Business graduate,  & Data Science
+I'm Alex Domínguez. I'm an International Business graduate,  who decided to join PwC a few years ago. As the future is now, decided to become a Data Analyst.
 
 
 - 🔭 I’m currently working on studying a Data Analytics Bootcamp
